@@ -72,14 +72,14 @@ h1 {
 .date {
     display: inline;
     min-width: 162px;
-    font-family: 'Prompt', cursive;
+    font-family: 'Bebas Neue', cursive;
     font-size: 2em;
     padding-right: 30px;
 }
 .greet{
     
     display:inline;
-    font-family: 'Quintessencial', cursive;
+    font-family: 'Dancing Script', cursive;
     font-size: 2rem;
      padding-right: 30px;
 }
